@@ -1,21 +1,3 @@
-***
-See the [4.0.0-development branch](https://github.com/paulyoung/bless.js/tree/4.0.0-development) for
-progress on the new version.
-***
+Forked version from https://github.com/BlessCSS/bless
 
-bless.js
-=======
-
-<http://blesscss.com>
-
-about
------
-
-For more information, visit <http://blesscss.com>.
-
-license
--------
-
-See `LICENSE` file.
-
-> Copyright (c) 2011 Paul Young
+- Only implementation chage to version 3.X branch is that import urls now don't use '-marks. This is a fix for jRebel usage.
