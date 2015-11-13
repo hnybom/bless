@@ -1,10 +1,13 @@
 {
-  "name"            : "bless",
+  "name"            : "bless-hn",
   "description"     : "CSS Post-Processor",
   "url"             : "http://blesscss.com",
   "keywords"        : ["css", "parser", "bless", "less", "sass", "stylus"],
-  "author"          : "Paul Young <paulyoungonline+bless@gmail.com>",
-  "repository"      : "BlessCSS/bless",
+  "author"          : "Henri Nybom",
+  "repository":     {
+                      "type": "git",
+                      "url": "https://github.com/hnybom/bless.git"
+                    },
   "contributors"    : [],
   "version"         : "3.0.3",
   "bin"             : { "blessc": "./bin/blessc" },
